@@ -1,6 +1,5 @@
 <h1 align="center"> #template# </h1> <br>
 <p align="center">
-  <a href="https://store.steampowered.com/">
   </a>
 </p>
 
